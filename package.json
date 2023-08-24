@@ -1,0 +1,37 @@
+{
+  "name": "iadh-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.3",
+    "@mui/material": "^5.14.4",
+    "@mui/x-date-pickers": "^6.11.0",
+    "@prisma/client": "^5.1.1",
+    "dayjs": "^1.11.9",
+    "next": "^13.4.13",
+    "prisma": "^5.1.1",
+    "react": "^18.2.0",
+    "react-calendar": "^4.6.0",
+    "react-datepicker": "^4.16.0",
+    "react-datetime": "^3.2.0",
+    "react-day-picker": "^8.8.0",
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0",
+    "react-week-picker": "^1.1.4",
+    "react-weekday-picker": "^1.0.8"
+  },
+  "devDependencies": {
+    "@types/node": "20.4.8",
+    "@types/react": "18.2.18",
+    "@types/react-datepicker": "^4.15.0",
+    "typescript": "5.1.6"
+  }
+}
